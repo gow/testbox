@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+#misc
+tags
+.FILE_LIST
+.arc/
+a.out
+go/pkg/*
+go/bin/*
+go/src/github.com/*
